@@ -4,5 +4,3 @@ The fold `data_usda` contains the time series of the output and the inputs for e
 
 The fold `tfpc_sfa` contains TFPC estimates by country (indices, 1961=1) grouped by geographical region.
 The time series of TFPC is shown in blue (TC, EC and SC denoted respectively by straight, dashed and dash-dotted black lines), while USDA estimates are shown in red.
-
-<img src="https://render.githubusercontent.com/render/math?math= y_t=\mu+\beta x_t+\varepsilon_t">
